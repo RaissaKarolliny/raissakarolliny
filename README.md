@@ -1,4 +1,6 @@
-##### iniciante em proramação
+###### * *iniciante em proramação* *
+ *sempre em busca de aprender
+ 
 
 <!--
 **RaissaKarolliny/raissakarolliny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
