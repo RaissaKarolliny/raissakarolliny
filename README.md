@@ -1,5 +1,5 @@
 ######  *iniciante em proramação* 
- *sempre em busca de aprender
+ Sempre em busca de aprender!
  
 
 <!--
