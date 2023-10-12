@@ -1,6 +1,6 @@
 # Oi, eu sou Raissa karoliny
 
-- Estudante de Ciências da Computação UFCA 
+
 
 <div>
  <h1> - Estudante de Ciências da Computação UFCA </h1>
