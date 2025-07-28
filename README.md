@@ -2,6 +2,7 @@
 
 - Graduanda em {Ciência da Computação} na {UFCA}.
 - Aprendendo mais sobre JAVA, e desenvolvimento de sites.
+  
 **Aplicações e dados**
 
 ![C](https://img.shields.io/badge/-C-734a91?style=flat&logo=C%2B%2B&logoColor=FFFFFF)
