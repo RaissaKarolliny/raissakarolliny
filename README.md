@@ -1,9 +1,7 @@
 ![sobre](https://img.shields.io/badge/-Sobre%20mim-734a91?style=flat&logo=sobre&logoColor=FFFFFF)
 
 - Graduanda em {Ciência da Computação} na {UFCA}.
-- Trabalhando em Pesquisa Cientifica {Algoritmos quânticos}.
-- Aprendendo mais sobre {UX/Design, Redes de computadores, Desencolvimento web, Jogos em python}.
-
+- Aprendendo mais sobre JAVA, e desenvolvimento de sites.
 **Aplicações e dados**
 
 ![C](https://img.shields.io/badge/-C-734a91?style=flat&logo=C%2B%2B&logoColor=FFFFFF)
