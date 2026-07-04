@@ -1,7 +1,9 @@
 ![sobre](https://img.shields.io/badge/-Sobre%20mim-734a91?style=flat&logo=sobre&logoColor=FFFFFF)
 
-- Graduanda em {Ciência da Computação} na {UFCA}.
-- Aprendendo mais sobre JAVA, e desenvolvimento de sites.
+- Graduada em {Ciência da Computação} na {UFCA}.
+- Aprendendo mais sobre JAVA.
+- Entusiasta em redes de computadores
+- Bolsista UFCA por 2 anos em Computação Quântica
   
 **Aplicações e dados**
 
